@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PannipaK
 - 👀 I’m interested in ...Web Development..
-- 🌱 Javascript, Python and little bit of Java and SQL
-- 💞️ I’m looking to collaborate on ...
+- 🌱 My feild are..Javascript, Python and little bit of Java and SQL
 - 📫 Reach me ...aompunnipa@gmail.com
 
 <!---
